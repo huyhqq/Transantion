@@ -142,12 +142,7 @@ function LapDon() {
             </div>
           </div>
           <div className="col-md-1"></div>
-          <div className="col-md-3">
-            <p className="note-paragraph">
-              Note: Search with dropdown -- select one -- auto fit to customer
-              info
-            </p>
-          </div>
+          <div className="col-md-3"></div>
         </div>
       </div>
 
